@@ -1,0 +1,5 @@
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\Point2D\obj\Debug\Point2D.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\Point2D\bin\Debug\Point2D.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\Point2D\bin\Debug\Point2D.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\Point2D\obj\Debug\Point2D.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\Point2D\obj\Debug\Point2D.pdb

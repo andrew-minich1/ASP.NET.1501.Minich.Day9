@@ -1,0 +1,5 @@
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeNode\obj\Debug\BinaryTreeNode.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeNode\bin\Debug\BinaryTreeNode.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeNode\bin\Debug\BinaryTreeNode.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeNode\obj\Debug\BinaryTreeNode.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeNode\obj\Debug\BinaryTreeNode.pdb

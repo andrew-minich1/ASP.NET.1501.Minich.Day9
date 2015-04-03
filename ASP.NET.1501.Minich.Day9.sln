@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeNode", "BinaryTreeNode\BinaryTreeNode.csproj", "{9EDB0E01-54D5-44D7-82D5-7E9FC1B1DDD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeConsoleApplication", "BinaryTreeConsoleApplication\BinaryTreeConsoleApplication.csproj", "{8AC50BFD-838E-4E41-90F5-DF87B63DE538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point2D", "Point2D\Point2D.csproj", "{C7DB6190-6274-476B-B1CB-9185385CB065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EDB0E01-54D5-44D7-82D5-7E9FC1B1DDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDB0E01-54D5-44D7-82D5-7E9FC1B1DDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDB0E01-54D5-44D7-82D5-7E9FC1B1DDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDB0E01-54D5-44D7-82D5-7E9FC1B1DDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC50BFD-838E-4E41-90F5-DF87B63DE538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC50BFD-838E-4E41-90F5-DF87B63DE538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC50BFD-838E-4E41-90F5-DF87B63DE538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC50BFD-838E-4E41-90F5-DF87B63DE538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7DB6190-6274-476B-B1CB-9185385CB065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DB6190-6274-476B-B1CB-9185385CB065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DB6190-6274-476B-B1CB-9185385CB065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DB6190-6274-476B-B1CB-9185385CB065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

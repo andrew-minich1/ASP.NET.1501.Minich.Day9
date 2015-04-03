@@ -1,0 +1,12 @@
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeConsoleApplication\bin\Debug\BinaryTreeConsoleApplication.exe.config
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeConsoleApplication\bin\Debug\BinaryTreeConsoleApplication.exe
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeConsoleApplication\bin\Debug\BinaryTreeConsoleApplication.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeConsoleApplication\bin\Debug\BinaryTreeNode.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeConsoleApplication\bin\Debug\BinaryTreeNode.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeConsoleApplication\obj\Debug\BinaryTreeConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeConsoleApplication\obj\Debug\BinaryTreeConsoleApplication.exe
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeConsoleApplication\obj\Debug\BinaryTreeConsoleApplication.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeConsoleApplication\bin\Debug\BookLogicLayer.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeConsoleApplication\bin\Debug\BookLogicLayer.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeConsoleApplication\bin\Debug\Point2D.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day9\BinaryTreeConsoleApplication\bin\Debug\Point2D.pdb
